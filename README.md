@@ -3,8 +3,9 @@
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? ###
-
-* Quick summary
+Tea Station
+URL: https://tea-house-css.netlify.app
+* Potential employers that showcases my hobby projects
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
