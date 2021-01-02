@@ -1,22 +1,15 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This mock project is developed with advanced HTML and CSS techniques (using CSS float solution to the page layout and image layout)
 
 ### What is this repository for? ###
 Tea Station
 URL: https://tea-house-css.netlify.app
 * Potential employers that showcases my hobby projects
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Please click on the provided netlify link to see the project
 
 ### Contribution guidelines ###
 
