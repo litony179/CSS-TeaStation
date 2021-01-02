@@ -4,7 +4,7 @@ This mock project is developed with advanced HTML and CSS techniques (using CSS 
 
 ### What is this repository for? ###
 Tea Station
-URL: https://tea-house-css.netlify.app
+https://tea-house-css.netlify.app
 * Potential employers that showcases my hobby projects
 
 ### How do I get set up? ###
